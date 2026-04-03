@@ -8,6 +8,6 @@ Visite o site: [Vicenzo](https://bmt.vicentedeveloper.com)
 
 ![image01](https://vicentedeveloper.com/storage/projects/gallery/YZ1VfAq3S2E9gEtZGhxWiM6qWbP6Xxsip47JNvEx.png)
 
-![image02]([https://vicentedeveloper.com/storage/projects/gallery/YZ1VfAq3S2E9gEtZGhxWiM6qWbP6Xxsip47JNvEx.png](https://vicentedeveloper.com/storage/projects/gallery/idpWHzjNfm2jAquwubGiwSfFzS9MUKmGhcyNdgL1.png)
+![image02](https://vicentedeveloper.com/storage/projects/gallery/idpWHzjNfm2jAquwubGiwSfFzS9MUKmGhcyNdgL1.png)
 
 Obs: Ainda em desenvolvimento
